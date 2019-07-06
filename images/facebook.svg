@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 52.916665 52.916668"
+   version="1.1"
+   id="svg1099"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="facebook.svg">
+  <defs
+     id="defs1093">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4374-67"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4374-0-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4374-3-3-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4374-06-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4374-6-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4374-8-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4809-9"
+       effect="spiro" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="109.39817"
+     inkscape:cy="74.130914"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1096">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-244.08332)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1031"
+       width="27.528765"
+       height="41.694046"
+       x="17.907059"
+       y="251.18185"
+       ry="0.66127574" />
+    <path
+       style="fill:#000000;stroke-width:0.17332146;stroke:none"
+       d="m 6.5894873,248.20771 c -1.3617859,0 -2.4650799,1.10331 -2.4650799,2.46509 v 39.73768 c 0,1.36143 1.1031171,2.46542 2.4650799,2.46542 H 27.982849 v -17.29796 h -5.821177 v -6.74125 h 5.821177 v -4.97149 c 0,-5.76935 3.523677,-8.91117 8.670459,-8.91117 2.46532,0 4.584319,0.18361 5.201686,0.26576 v 6.02968 l -3.569678,0.001 c -2.798793,0 -3.34084,1.32983 -3.34084,3.2816 v 4.30394 h 6.675583 l -0.869656,6.74159 h -5.805927 v 17.29796 H 46.32716 c 1.361261,0 2.465099,-1.10383 2.465099,-2.46543 v -39.73764 c 0,-1.36178 -1.103661,-2.46509 -2.465099,-2.46509 z"
+       id="Blue_1_"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
